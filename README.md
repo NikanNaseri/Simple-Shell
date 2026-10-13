@@ -26,3 +26,7 @@ SimpleShell supports the following commands:
 - Python 3.x
 - Windows operating system
 
+## How to Run
+1.Make sure you have Python installed.
+2.Run the game using: python SimpleShell.py
+
