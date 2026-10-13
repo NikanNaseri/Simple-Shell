@@ -27,7 +27,7 @@ SimpleShell supports the following commands:
 - Windows operating system
 
 ## How to Run
-1.Make sure you have Python installed.
+1. Make sure you have Python installed.
 
-2.Run the file using: python SimpleShell.py.
+2. Run the file using: python SimpleShell.py
 
